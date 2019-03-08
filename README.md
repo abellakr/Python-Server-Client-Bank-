@@ -6,6 +6,7 @@
 terminal command:
 
 python server.py
+
 python client.py
 
 ## command syntax
