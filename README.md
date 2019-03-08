@@ -11,7 +11,11 @@ python client.py
 
 ## command syntax
 c<[acctid]>  - creates a new account
+
 r<[acctid]> - retrieves an existing account
+
 d<[amount],[acctid]> - deposits the amount into the given account 
+
 w<[amount],[acctid]> - withdraws the amount from the given account 
+
 
